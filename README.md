@@ -9,6 +9,7 @@ make virtual store, we are going to attach sheets with photo and QR-code of
 products in public places. When people scan QR-code, they can able to buy
 products through the online which leads to reduce crowd in grocery stores, super
 markets, shopping malls.
+
 Tools & Software:
 1) Language: Java, XML.
 2) IDE: Android Studio.
